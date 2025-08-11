@@ -61,4 +61,6 @@ CF官方优选443系端口：443、2053、2083、2087、2096、8443
 阿里云：server=="cloudflare" && asn=="45102"
 甲骨文韩国：server=="cloudflare" && asn=="31898" && country=="KR"
 搬瓦工：server=="cloudflare" && asn=="25820"
+(server=="cloudflare" && asn=="25820") && after="2025-07-11" && region="Hong Kong"
+
 
