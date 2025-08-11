@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/ningzhifen/test/refs/heads/main/ipJP.txt@141.147.163.68
-https://raw.githubusercontent.com/ningzhifen/test/refs/heads/main/ipHK2.txt@34.92.173.182
+https://raw.githubusercontent.com/ningzhifen/test/refs/heads/main/ipJP.txt
+https://raw.githubusercontent.com/ningzhifen/test/refs/heads/main/ipHK2.txt
 
 
